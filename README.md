@@ -1,4 +1,4 @@
-<h3><br>Resident Evil: Revelations 2
+<h3>Resident Evil: Revelations 2
 <br>PlayStation DualShock button prompts<br><br>
 by GreenTeaZero
 <br>More of my content here:
