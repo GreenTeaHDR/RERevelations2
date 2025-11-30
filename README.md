@@ -1,5 +1,5 @@
 <h3>Resident Evil: Revelations 2
-<br>PlayStation DualShock button prompts<br><br>
+<br>PlayStation Button Prompts<br><br>
 by GreenTeaZero
 <br>More of my content here:
 https://linktr.ee/GreenTeaZero
@@ -8,7 +8,7 @@ https://linktr.ee/GreenTeaZero
 <br>**Description**
 
 
-This mod replaces XBox button prompts with PlayStation DualShock controller prompts.
+This mod replaces XBox button prompts with PlayStation button prompts.
 
 
 Additionally, this mod also modifies the blood overlay shown when you're hit in a way that is less intrusive.
@@ -30,3 +30,5 @@ Note: If you use the widescreen/Fusion fix, ensure that DisableDamageOverlay is 
 You can find this option in the ResidentEvilRevelations2.FusionFix.ini file.
 
 If you're planning to use upscaled texture packs, make sure you add this AFTER adding the texture replacement.
+
+<br>
